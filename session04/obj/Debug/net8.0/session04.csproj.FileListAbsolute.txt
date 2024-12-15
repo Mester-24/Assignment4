@@ -1,0 +1,14 @@
+C:\mester\session04\session04\bin\Debug\net8.0\session04.exe
+C:\mester\session04\session04\bin\Debug\net8.0\session04.deps.json
+C:\mester\session04\session04\bin\Debug\net8.0\session04.runtimeconfig.json
+C:\mester\session04\session04\bin\Debug\net8.0\session04.dll
+C:\mester\session04\session04\bin\Debug\net8.0\session04.pdb
+C:\mester\session04\session04\obj\Debug\net8.0\session04.GeneratedMSBuildEditorConfig.editorconfig
+C:\mester\session04\session04\obj\Debug\net8.0\session04.AssemblyInfoInputs.cache
+C:\mester\session04\session04\obj\Debug\net8.0\session04.AssemblyInfo.cs
+C:\mester\session04\session04\obj\Debug\net8.0\session04.csproj.CoreCompileInputs.cache
+C:\mester\session04\session04\obj\Debug\net8.0\session04.dll
+C:\mester\session04\session04\obj\Debug\net8.0\refint\session04.dll
+C:\mester\session04\session04\obj\Debug\net8.0\session04.pdb
+C:\mester\session04\session04\obj\Debug\net8.0\session04.genruntimeconfig.cache
+C:\mester\session04\session04\obj\Debug\net8.0\ref\session04.dll
